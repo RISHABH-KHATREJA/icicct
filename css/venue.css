@@ -1,0 +1,99 @@
+#ib {
+    position: relative;
+    margin: 15px;
+    border-left: 3px dashed antiquewhite;
+    padding: 10px 40px;
+	top:120px;
+}
+
+.footer-bottom{
+  background-color: orange;
+  color:white;
+}
+.navbar {
+    z-index:10;
+    width:100%;
+	}
+
+.navbar-brand{
+  position:relative;
+  top:-8px;
+}
+.main-text
+{   
+    
+    position:relative;
+    top: 40px;
+    width: 96.66666666666666%;
+    color: black;
+}
+
+
+#ib > span {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 100%;
+    left: -20px;
+    top: 0;
+    background: antiquewhite;
+}
+
+
+  .affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+h3
+{
+position:relative;
+top:40px;
+font-size:30px;
+font-family:times new roman;
+font-weight:bold;
+}
+#bbb
+{
+
+font-size:25px;
+font-family:times new roman;
+text-decoration:underline;
+
+}
+#host
+{
+font-size:20px;
+font-weight:bold;
+font-family:times new roman;
+
+}
+b
+{
+font-size:15px;
+}
+#con
+{
+font-weight:bold;
+font-size:20px;
+font-family:times new roman;
+}
+#abc
+{
+text-align:justify;
+font-size:15px;
+font-weight:bold;
+font-family:times new roman;
+ margin-top: 15px;
+}
+#myCarousel
+{
+position:relative;
+
+width:100%;
+top:100px;
+
+}

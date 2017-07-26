@@ -1,0 +1,130 @@
+.carousel {
+    position:relative;
+    top:0;    
+}
+.navbar {
+    z-index:10;
+    height:70px;
+    width:100%;
+	}
+.footer-bottom{
+  background-color: orange;
+  color:white;
+}
+.navbar-brand{
+  position:relative;
+  top:-8px;
+  width:80px;
+  height:55px;
+}
+.item {
+    position: relative;
+    margin: 15px;
+    border-left: 3px dashed antiquewhite;
+    padding: 10px 40px;
+}
+
+.item > span {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 100%;
+    left: -20px;
+    top: 0;
+    background: antiquewhite;
+}
+
+.item div {
+    font-size: 18px;
+    font-weight: bold;  
+}
+
+.item p {
+    margin-top: 15px;
+}
+  .affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+  .carousel-caption
+			{
+			
+				z-index: 10;
+				color: #fff;
+				text-align: center;
+				background: rgba(0,0,0,0.4);
+			}
+  .main-text
+{
+    position: absolute;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+h3
+{
+position:relative;
+top:40px;
+font-weight:bold;
+font-size:25px;
+
+}
+b
+{
+	position:relative;
+	top:10px;
+font-size:15px;
+font-family:times new roman;
+font-weight:bold;
+}
+#con
+{
+font-weight:bold;
+font-size:25px;
+font-family:times new roman;
+}
+#abc
+{
+text-align:justify;
+font-size:15px;
+font-weight:bold;
+font-family:times new roman;
+}
+#host
+{
+font-size:20px;
+font-weight:bold;
+font-family:times new roman;
+}
+#bbc
+{
+text-align:center;
+font-size:17px;
+font-weight:bold;
+font-family:times new roman;
+}
+.navbar-custom 
+{
+    background-color:#cbd2d3;
+}
+a
+{
+color:black;
+}
+.navbar-custom .navbar-toggle 
+{
+    background-color:black;
+
+}
+.navbar-custom .icon-bar 
+{
+    background-color:white;
+}
+.navbar-custom .navbar-collapse
+{
+	background-color:#cbd2d3;
+}

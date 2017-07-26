@@ -1,0 +1,57 @@
+.item {
+    position: relative;
+    margin: 15px;
+    border-left: 3px dashed antiquewhite;
+    padding: 10px 40px;
+	top:120px;
+}
+
+.navbar {
+    z-index:10;
+    width:100%;
+	}
+
+.navbar-brand{
+ position:relative;
+  top:-8px;
+}
+b
+{
+font-size:15px;
+}
+.main-text
+{   
+    
+    position:relative;
+    top: 40px;
+    width: 96.66666666666666%;
+    color: black;
+}
+h3
+{
+font-size:30px;
+font-family:times new roman;
+}
+#bbb
+{
+
+font-size:25px;
+font-family:times new roman;
+text-decoration:underline;
+
+}
+.table
+{
+    position:relative;
+    border: 2px solid black;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+	top:130px;
+}
+.table td{
+    border: black solid 2px !important;
+}
+.table th{
+    border: black solid 2px !important;
+}
